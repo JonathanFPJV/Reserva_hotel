@@ -19,6 +19,7 @@ class Habitacion extends Model
         'Precio',
         'Estado_habitacion',
         'Piso',
+        'imagen'
     ];
 
     public function comentarios()
